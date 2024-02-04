@@ -1,11 +1,11 @@
 <h1 align="center">Salut 👋, Je suis Arnaud De peindray</h1>
 <h3 align="center">Un passioné de développement full-stack (avec une grosse préférence pour le back-end 😂)</h3>
 
-- 🔭 Je travaille actuellement sur **event** [Event](https://github.com/arnauddepeindray/soiree)
+- 🔭 Je suis actuellement un développeur full stack qui a travaillé dans multiple contexte dans le monde des assurances
 
-- 🌱 J'apprends actuellement du **Java, Flutter, ReactNative, .NET**
+- 🌱 Mes stacks : **Java, Flutter, ReactNative, Javascript, Typescriot, PHP, Symfony, Mysql**
 
-- 👯 Je recherche des missions sur **des projets de développement**
+- 👯 Je recherche des nouvelles opportunités de **des projets de développement**
 
 - 📫 Comment me contacter **arnaud.depeindray@gmail.com**
 
